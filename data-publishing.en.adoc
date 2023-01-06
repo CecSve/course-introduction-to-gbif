@@ -2,7 +2,7 @@
 == Data publishing
 
 [NOTE.objectives]
-In this module, you will learn about data publishing, incentives for publishing data how to become a publisher, review feedback available for publishers and review information about data papers.
+In this module, you will learn about data publishing, incentives for publishing data, how to become a publisher, review feedback available for publishers and review information about data papers.
 
 === What is data publishing?
 
